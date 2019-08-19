@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rogerlddf/news-scrape.git"
+    "url": "git+https://github.com/frankjlinares/scrape.git"
   },
   "author": "Roger",
   "license": "ISC",
