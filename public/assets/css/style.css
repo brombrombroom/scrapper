@@ -18,7 +18,7 @@ main {
 
 .section-1{
   padding: 4% 0%;
-  background-color: #FFD700;
+  background-color: #6495ed;
   text-align: center;
 
 }
@@ -38,19 +38,19 @@ main {
 }
 
 .section-1 .btn:hover{
-  background-color: white;
+  background-color: #778899;
   color: black;
 }
 
 .section-2{
   padding: 5%;
-  background-color: #00ffff;
+  background-color: #6495ed;
 }
 
 .section-2 .card{
   padding: 2%;
   margin: 1% auto;
-  background-color: #00000014;
+  background-color: #87cefa;
   text-align: center;
 }
 
@@ -62,7 +62,7 @@ main {
 }
 
 .section-2 .btn:hover{
-  color:#ca0c0c;
+  color: #778899;
   background-color: white;
 }
 
@@ -80,12 +80,12 @@ footer{
   font-weight: 900;
   padding-left: 1%;
   margin-bottom: 2%;
-  border-left: 16px solid #ca0c0c;
+  border-left: 16px solid #008080;
 }
 
 .comment-s2{
   padding: 5%;
-  background-color:#ca0c0c;
+  background-color:#008080;
   color: white;
 }
 
@@ -103,7 +103,7 @@ footer{
 }
 
 .comment-s2 .btn:hover{
-  color: black;
+  color: #778899;
   background-color: white;
 }
 
