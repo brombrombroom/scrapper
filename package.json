@@ -1,5 +1,5 @@
 {
-  "name": "news-scrape",
+  "name": "scraper",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,12 +10,12 @@
     "type": "git",
     "url": "git+https://github.com/frankjlinares/scrape.git"
   },
-  "author": "Roger",
+  "author": "Frank",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rogerlddf/news-scrape/issues"
+    "url": "https://github.com/frankjlinares/scrapper/issues"
   },
-  "homepage": "https://github.com/rogerlddf/news-scrape#readme",
+  "homepage": "https://github.com/frankjlinares/scrapper#readme",
   "dependencies": {
     "axios": "^0.19.0",
     "body-parser": "^1.19.0",
